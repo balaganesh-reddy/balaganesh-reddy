@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @balaganesh-reddy
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning cloud
-- 💞️ I’m looking to collaborate on cloud.
-- Looking forward to work with aws cloud services.
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python projects.
+- Looking forward to work with Machine learning.
 - 😄 Pronouns: He/him
 
 <!---
